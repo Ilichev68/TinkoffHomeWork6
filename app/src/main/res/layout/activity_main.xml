@@ -14,4 +14,25 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"/>
 
+    <Button
+        android:text="@string/deserialize"
+        android:id="@+id/des_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:layout_gravity="center"
+        android:text="@string/bigDecimal"
+        android:id="@+id/to_BigDecimal_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:text="@string/edit_data"
+        android:id="@+id/edit_data_btn"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
 </LinearLayout>

@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">TinkoffHomeWork6</string>
     <string name="exclusion">Exclusion</string>
+    <string name="deserialize">Deserialize</string>
+    <string name="edit_data">Edit data</string>
+    <string name="bigDecimal">To BigDecimal</string>
 </resources>
